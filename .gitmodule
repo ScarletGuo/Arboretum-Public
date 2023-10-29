@@ -1,0 +1,4 @@
+[submodule "include/cpp_redis"]
+         path = include/cpp_redis
+         url = https://github.com/cpp-redis/cpp_redis.git
+         ignore = dirty
